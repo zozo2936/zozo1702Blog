@@ -1,5 +1,10 @@
 baseURL = "https://zozo2936.github.io/zozo1702Blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Blog"
 publishDir = "docs"
 theme = "m10c"
+
+paginate = 10
+[params]
+  author = "zo"
+  description = "喵喵喵筆記"
