@@ -1,4 +1,5 @@
 baseURL = "http://zozo2936.github.io/zozoBlog"
 languageCode = "en-us"
 title = "My New Hugo Site"
+publishDir = "docs"
 theme = "m10c"
